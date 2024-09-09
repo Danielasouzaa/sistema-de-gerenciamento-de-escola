@@ -1,0 +1,14 @@
+# Ignorar arquivos de backup do banco de dados
+*.sql~
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos temporários do sistema
+*.tmp
+*.bak
+*.swp
+
+# Ignorar configurações de IDE (Exemplo: VSCode)
+.vscode/
+.idea/
